@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Hello there, This is a personal project that I use to showcase my current progress on React.In this project, I used React and SASS.Project Uses Yelp Fusion API to make searches on Yelp.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
